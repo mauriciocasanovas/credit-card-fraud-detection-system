@@ -270,7 +270,7 @@ The API provides:
 ### 🔍 Prediction Endpoint
 
 <p align="center">
-<img src="images/02_predict_endpoint.png" width="130%">
+<img src="images/02_predict_endpoint.png" width="180%">
 </p>
 
 The prediction endpoint receives a transaction in JSON format and returns:
@@ -341,7 +341,7 @@ Deployment components:
 ### Amazon ECS Cluster
 
 <p align="center">
-<img src="images/04_aws_ecs_cluster.png" width="180%">
+<img src="images/04_aws_ecs_cluster.png" width="230%">
 </p>
 
 The application runs as an ECS Service, allowing container orchestration without managing servers.
@@ -351,7 +351,7 @@ The application runs as an ECS Service, allowing container orchestration without
 ### Amazon ECR
 
 <p align="center">
-<img src="images/05_ecr_repository.png" width="180%">
+<img src="images/05_ecr_repository.png" width="230%">
 </p>
 
 The Docker image is stored in **Amazon Elastic Container Registry (ECR)** and automatically deployed through ECS Task Definitions.
