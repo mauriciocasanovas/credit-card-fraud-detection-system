@@ -1,11 +1,11 @@
 ## 💳 Credit Card Fraud Detection System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.14-blue?style=plastic&logo=python">
-  <img src="https://img.shields.io/badge/FastAPI-REST_API-009688?style=plastic&logo=fastapi">
-  <img src="https://img.shields.io/badge/Scikit--Learn-Random_Forest-orange?style=plastic&logo=scikitlearn">
-  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=plastic&logo=docker">
-  <img src="https://img.shields.io/badge/AWS-ECS_Fargate-FF9900?style=plastic&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Python-3.14-blue?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/FastAPI-REST_API-009688?style=flat-square&logo=fastapi">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Random_Forest-orange?style=flat-square&logo=scikitlearn">
+  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker">
+  <img src="https://img.shields.io/badge/AWS-ECS_Fargate-FF9900?style=flat-square&logo=amazonaws">
 </p>
 
 ---
