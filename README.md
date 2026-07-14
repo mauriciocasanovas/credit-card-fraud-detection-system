@@ -270,7 +270,7 @@ The API provides:
 ### 🔍 Prediction Endpoint
 
 <p align="center">
-<img src="images/02_predict_endpoint.png" width="900">
+<img src="images/02_predict_endpoint.png" width="100%">
 </p>
 
 The prediction endpoint receives a transaction in JSON format and returns:
