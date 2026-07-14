@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Git
+.git/
+
+# Dataset
+data/creditcard.csv
