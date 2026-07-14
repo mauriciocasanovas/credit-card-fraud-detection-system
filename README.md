@@ -38,7 +38,7 @@ The system receives transaction data, predicts whether the transaction is fraudu
 ## 🌐 Interactive API Documentation
 
 <p align="center">
-<img src="images/01_swagger_home.png" width="90%">
+<img src="images/01_swagger_home.png" width="100%">
 </p>
 
 The REST API was developed with **FastAPI**, providing:
@@ -66,7 +66,7 @@ The implemented solution aims to provide an inference service capable of classif
 ## 🏗 System Architecture
 
 <p align="center">
-<img src="images/07_architecture.png" width="80%">
+<img src="images/07_architecture.png" width="100%">
 </p>
 
 The architecture follows a simple production-oriented workflow:
@@ -284,7 +284,7 @@ The prediction endpoint receives a transaction in JSON format and returns:
 ### ✅ Example Prediction
 
 <p align="center">
-<img src="images/03_prediction_response.png" width="60%">
+<img src="images/03_prediction_response.png" width="80%">
 </p>
 
 Actual response obtained from the deployed API:
@@ -312,7 +312,7 @@ Actual response obtained from the deployed API:
 The application is fully containerized using Docker, ensuring portability and reproducibility across different environments.
 
 <p align="center">
-<img src="images/06_docker_images.png" width="100%">
+<img src="images/06_docker_images.png" width="120%">
 </p>
 
 The application can be started locally using:
@@ -341,7 +341,7 @@ Deployment components:
 ### Amazon ECS Cluster
 
 <p align="center">
-<img src="images/04_aws_ecs_cluster.png" width="120%">
+<img src="images/04_aws_ecs_cluster.png" width="140%">
 </p>
 
 The application runs as an ECS Service, allowing container orchestration without managing servers.
@@ -351,7 +351,7 @@ The application runs as an ECS Service, allowing container orchestration without
 ### Amazon ECR
 
 <p align="center">
-<img src="images/05_ecr_repository.png" width="120%">
+<img src="images/05_ecr_repository.png" width="140%">
 </p>
 
 The Docker image is stored in **Amazon Elastic Container Registry (ECR)** and automatically deployed through ECS Task Definitions.
