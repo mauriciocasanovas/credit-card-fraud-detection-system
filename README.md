@@ -1,11 +1,14 @@
 ## 💳 Credit Card Fraud Detection System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.14-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/FastAPI-REST_API-009688?style=flat-square">
-  <img src="https://img.shields.io/badge/Scikit--Learn-Random_Forest-orange?style=flat-square">
-  <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square">
-  <img src="https://img.shields.io/badge/AWS-ECS_Fargate-FF9900?style=flat-square">
+
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-009688?style=for-the-badge&logo=fastapi)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random_Forest-F7931E?style=for-the-badge&logo=scikitlearn)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-ECS_Fargate-FF9900?style=for-the-badge&logo=amazonaws)
+![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi)
+
 </p>
 
 ---
